@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio 4</string>
+    <string name="boton_pulsar">Pulsar</string>
+    <string name="text_placeholder01">Aquí un correo electrónico</string>
+    <string name="MensajeError">No escribiste nada!</string>
+    <string name="validacionEmail">Email no valido</string>
+</resources>
